@@ -1,2 +1,0 @@
-# item-e-quantidade-
-Programando
